@@ -1,0 +1,6 @@
+# www.robotstxt.org/
+
+User-agent: *
+Allow: /
+sitemap.xml
+Disallow: index.html
